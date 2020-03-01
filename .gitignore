@@ -60,6 +60,9 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+# Let the assets package stay
+!Assets.unitypackage
+
 # Crashlytics generated file
 crashlytics-build.properties
 
