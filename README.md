@@ -1,5 +1,5 @@
 # Low Poly Dodgeball
-Making a pr.. this is insane369 or Jaskirat
+Making a pr.. this is insane369 or Jaskirat/n
 This Unity project was created as part of the society's first introductory Unity workshop held on 1st March 2020.
 
 To get the starter template and not the final project, just import the `Assets.unitypackage` into a new blank project.
